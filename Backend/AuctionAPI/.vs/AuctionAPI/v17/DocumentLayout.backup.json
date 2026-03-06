@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\repos\\bidrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:repos\\bidrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\services\\bidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:services\\bidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\repos\\auctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:repos\\auctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\interfaces\\iauctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:interfaces\\iauctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\dtos\\auctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:dtos\\auctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\dtos\\createauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:dtos\\createauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\interfaces\\ibidrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:interfaces\\ibidrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\dtos\\createbiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:dtos\\createbiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\dtos\\biddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:dtos\\biddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\data\\acutiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:data\\acutiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Migrations\\20260304131634_FixDecimalPrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260304131634_FixDecimalPrecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\auctionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:auctionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|c:\\users\\ramya\\source\\repos\\acution\\auctionapi\\migrations\\20260304132404_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7972D446-424A-4F18-BDBD-254906F7E093}|AuctionAPI.csproj|solutionrelative:migrations\\20260304132404_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BidsController.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Controllers\\BidsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BidsController.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Controllers\\BidsController.cs",
+              "RelativeToolTip": "Controllers\\BidsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:13:12.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "Controllers\\AuctionController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:10:40.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:09:50.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BidService.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Services\\BidService.cs",
+              "RelativeDocumentMoniker": "Services\\BidService.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Services\\BidService.cs",
+              "RelativeToolTip": "Services\\BidService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:04:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuctionService.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Services\\AuctionService.cs",
+              "RelativeDocumentMoniker": "Services\\AuctionService.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Services\\AuctionService.cs",
+              "RelativeToolTip": "Services\\AuctionService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:04:31.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:04:05.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BidRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Repos\\BidRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\BidRepo.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Repos\\BidRepo.cs",
+              "RelativeToolTip": "Repos\\BidRepo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:56:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuctionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Repos\\AuctionRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\AuctionRepo.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Repos\\AuctionRepo.cs",
+              "RelativeToolTip": "Repos\\AuctionRepo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:54:13.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:52:31.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBidRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Interfaces\\IBidRepo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBidRepo.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Interfaces\\IBidRepo.cs",
+              "RelativeToolTip": "Interfaces\\IBidRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:50:05.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuctionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Interfaces\\IAuctionRepo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuctionRepo.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Interfaces\\IAuctionRepo.cs",
+              "RelativeToolTip": "Interfaces\\IAuctionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:48:17.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepo.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:46:59.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateBidDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\CreateBidDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateBidDto.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\CreateBidDto.cs",
+              "RelativeToolTip": "DTOs\\CreateBidDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:43:57.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BidDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\BidDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BidDto.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\BidDto.cs",
+              "RelativeToolTip": "DTOs\\BidDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:43:15.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAuctionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\CreateAuctionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateAuctionDto.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\CreateAuctionDto.cs",
+              "RelativeToolTip": "DTOs\\CreateAuctionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:42:00.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuctionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\AuctionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuctionDto.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\AuctionDto.cs",
+              "RelativeToolTip": "DTOs\\AuctionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:40:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\LoginUserDto.cs",
+              "RelativeToolTip": "DTOs\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:39:08.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:38:17.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260304132404_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Migrations\\20260304132404_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260304132404_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Migrations\\20260304132404_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260304132404_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:24:05.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20260304131634_FixDecimalPrecision.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Migrations\\20260304131634_FixDecimalPrecision.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260304131634_FixDecimalPrecision.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Migrations\\20260304131634_FixDecimalPrecision.cs",
+              "RelativeToolTip": "Migrations\\20260304131634_FixDecimalPrecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:16:34.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:09:39.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T13:07:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AcutionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Data\\AcutionDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AcutionDbContext.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Data\\AcutionDbContext.cs",
+              "RelativeToolTip": "Data\\AcutionDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:50:04.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Entities\\Bid.cs",
+              "RelativeDocumentMoniker": "Entities\\Bid.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Entities\\Bid.cs",
+              "RelativeToolTip": "Entities\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:46:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Entities\\Auction.cs",
+              "RelativeDocumentMoniker": "Entities\\Auction.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Entities\\Auction.cs",
+              "RelativeToolTip": "Entities\\Auction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:45:25.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:44:11.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuctionAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\AuctionAPI.csproj",
+              "RelativeDocumentMoniker": "AuctionAPI.csproj",
+              "ToolTip": "C:\\Users\\ramya\\source\\repos\\Acution\\AuctionAPI\\AuctionAPI.csproj",
+              "RelativeToolTip": "AuctionAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T12:40:42.887Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

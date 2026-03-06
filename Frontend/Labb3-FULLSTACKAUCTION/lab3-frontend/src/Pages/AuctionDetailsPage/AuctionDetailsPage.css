@@ -1,0 +1,18 @@
+.auction-details{
+  width:500px;
+  margin:40px auto;
+}
+
+.auction-details ul{
+  margin-top:20px;
+}
+
+.auction-details input{
+  padding:10px;
+  margin-top:10px;
+}
+
+.auction-details button{
+  padding:10px;
+  margin-left:10px;
+}
